@@ -1,2 +1,2 @@
 # emirhanakbas.github.io
-• My personal website contains in-class activities and sprints.
+• My personal website that contains in-class activities and sprints.

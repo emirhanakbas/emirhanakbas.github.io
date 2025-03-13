@@ -3,38 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <title>Activity 6</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    table {
-      border-collapse: collapse;  
-      text-align: left;    
-    }
-    td {
-      padding: 6px;              
-      vertical-align: top;     
-    }
-    input[type="text"],
-    input[type="password"],
-    input[type="email"],
-    select,
-    textarea {
-      width: 180px;              
-      box-sizing: border-box;    
-      padding: 4px;              
-    textarea {
-      height: 60px;              
-    }
-    input[type="submit"] {
-      padding: 5px 10px;
-      cursor: pointer;
-    }
-  </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-  <h2 style="text-align:left;">Registration Form</h2>
+  <h2>Registration Form</h2>
   
   <form action="Activity6-preview.php" method="POST">
     <table>
